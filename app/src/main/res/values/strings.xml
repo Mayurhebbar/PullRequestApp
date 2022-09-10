@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">PullRequest App</string>
+    <string name="user_name">User Name</string>
+    <string name="repo_name">Repo Name</string>
+    <string name="home">Pull Request</string>
+    <string name="pull_request_header_name">Your Repo Pull Request</string>
+    <string name="continue_msg">Continue</string>
+    <string name="entire_fields_toast">Please entire given fields to proceed.</string>
+    <string name="end_of_the_list_toast">You have reached end of the list.</string>
+    <string name="something_went_wrong_toast">Something went wrong , Try again later"</string>
+    <string name="enter_your_github_username">Enter your github user name.</string>
+    <string name="my_github_username">MayurHebbar</string>
+    <string name="github_repo_name">Main_mcubek</string>
+    <string name="enter_your_github_repo_name">Enter your github repo name.</string>
+    <string name="no_connection_error">You have no internet connection. Please check your connection or connect to the internet for using Pull Request services</string>
+    <string name="closedDateLabel">Closed at</string>
+    <string name="createdDateLabel">Created at</string>
+    <string name="userNameLabel">by</string>
+    <string name="apiFailedError">API Failed</string>
+    <string name="retry">Retry</string>
+    <string name="no_closed_prs_label">No Closed PRs</string>
+</resources>
