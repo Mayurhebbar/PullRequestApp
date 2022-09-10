@@ -28,6 +28,9 @@ Paging
 OkHttp
 
 
+Here is the screen shot of my App
+
+
 
 <img width="411" alt="Screenshot 2022-09-10 at 6 35 47 PM" src="https://user-images.githubusercontent.com/62235471/189486883-66bb20a9-2749-442a-b619-7bf332919084.png">
 
