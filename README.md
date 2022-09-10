@@ -1,4 +1,4 @@
-# MyGithubApp
+# PullRequestApp
 This is the app to show list of any public repo's closed pull requests in git hub.
 
 
